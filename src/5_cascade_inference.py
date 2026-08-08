@@ -1,4 +1,3 @@
-# 5_cascade_inference.py
 # Version optimisée : prédiction vectorisée pour le Niveau 1, boucle uniquement sur les cas douteux
 
 import pandas as pd

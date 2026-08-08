@@ -1,4 +1,3 @@
-# 1b_append_tftp.py
 # Charge le fichier TFTP.csv par morceaux pour éviter l'erreur mémoire
 
 import pandas as pd

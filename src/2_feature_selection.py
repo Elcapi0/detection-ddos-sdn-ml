@@ -1,4 +1,3 @@
-# 2_feature_selection.py
 # Stratégie : Échantillonner les attaques DANS chaque fichier avant de les fusionner.
 # Cela évite de charger les 52 millions de lignes en RAM.
 

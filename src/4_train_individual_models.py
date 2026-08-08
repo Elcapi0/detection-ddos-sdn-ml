@@ -1,4 +1,3 @@
-# 4_train_individual_models.py
 # Entraîne LightGBM, XGBoost et SVM séparément pour la cascade
 
 import pandas as pd

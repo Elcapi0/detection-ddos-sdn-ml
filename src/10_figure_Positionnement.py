@@ -1,6 +1,4 @@
-# generate_figure_4_6.py
 # Script standalone pour générer la Figure 4.6 (Positionnement par rapport à l'état de l'art)
-# Auteur : Projet Master DDoS Detection
 
 import matplotlib.pyplot as plt
 import numpy as np

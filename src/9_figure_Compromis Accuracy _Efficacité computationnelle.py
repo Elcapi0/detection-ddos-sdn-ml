@@ -1,7 +1,4 @@
-# generate_figure_4_5.py
 # Script standalone pour générer la Figure 4.5 (Compromis Accuracy / Efficacité computationnelle)
-# VERSION FINALE : Plus de superposition, présentation propre
-# Auteur : Projet Master DDoS Detection
 
 import matplotlib.pyplot as plt
 import numpy as np

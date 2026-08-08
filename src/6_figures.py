@@ -1,6 +1,4 @@
-# 6_generate_figures.py
 # Objectif : Générer l'intégralité des figures scientifiques pour le mémoire
-# Auteur : Projet Master DDoS Detection
 
 import pandas as pd
 import numpy as np

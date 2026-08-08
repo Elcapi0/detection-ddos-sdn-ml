@@ -1,4 +1,3 @@
-# 3_train_stacking.py
 # Objectif : Entraîner un Stacking Classifier (LGB + XGB + RF) pour atteindre 99%+ sur CICDDoS2019.
 # Auteur : Projet Master DDoS Detection
 

@@ -1,6 +1,4 @@
-# generate_figure_2_1.py
 # Standalone script to generate Figure 2.1 (Class distribution before/after sampling)
-# Author: Master Project - DDoS Detection
 
 import pandas as pd
 import matplotlib.pyplot as plt

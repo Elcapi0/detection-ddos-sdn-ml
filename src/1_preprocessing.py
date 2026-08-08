@@ -1,6 +1,4 @@
-# 1_preprocessing.py
 # Objectif : Charger TOUS les fichiers CSV (01-12 + 03-11), nettoyer, fusionner et sauvegarder en .parquet
-# Auteur : Projet Master DDoS Detection
 
 import pandas as pd
 import numpy as np

@@ -1,6 +1,4 @@
-# generate_figure_4_3_bars_english.py
-# Figure 4.3: Flow distribution across TASC cascade levels (Horizontal bar chart)
-# Author: Master Project - DDoS Detection
+# Flow distribution across TASC cascade levels (Horizontal bar chart)
 
 import pandas as pd
 import numpy as np

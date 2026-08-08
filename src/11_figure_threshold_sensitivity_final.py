@@ -1,4 +1,3 @@
-# generate_threshold_sensitivity_final.py
 # Script ULTIME pour la Figure 4.4 (Sensibilité au seuil)
 
 import pandas as pd

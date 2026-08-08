@@ -1,4 +1,3 @@
-# 2b_clean_features.py
 # Supprime 'Unnamed: 0' et les colonnes constantes des datasets déjà sauvegardés.
 
 import pandas as pd

@@ -1,4 +1,3 @@
-# 1c_convert_tftp_to_parquet.py
 # Convertit TFTP.csv en un seul Parquet en écrivant d'abord des fichiers temporaires.
 
 import pandas as pd

@@ -1,4 +1,3 @@
-# measure_cpu_load.py
 # Mesure précise du temps CPU pour prouver la réduction de charge CPU
 # Comparaison : TASC (Early Exit) vs Stacking (tous les modèles sur tous les flux)
 
